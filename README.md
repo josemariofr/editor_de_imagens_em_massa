@@ -1,0 +1,1 @@
+# editor_de_imagens_em_massa
